@@ -8,11 +8,11 @@ Otherwise, they will lose health points. If the player collects 50 waste in each
 This way, the player will be happy to contribute to nature and earn the right to move on to the next level. 
 The player will encounter a different city environment in each level, and things will get more difficult each time.
 
-Controls:                                              Tuşlar:
-Arrow Keys: Up, Left, Down, Right = W, A, S, D         Yön Tuşları: Yukarı, Sol, Aşağı, Sağ = W, A, S, D
-Shift: Running with W, A, S, D                         Shift: Koşmak için W, A, S, D ile
-ESC: Pause the game and access settings                ESC: Oyunu duraklatmak ve ayarları açmak
-M: Open the map                                        M: Haritayı açmak              
+Controls:                                              
+Arrow Keys: Up, Left, Down, Right = W, A, S, D         
+Shift: Running with W, A, S, D                         
+ESC: Pause the game and access settings              
+M: Open the map               
                                                                                  
 Herkese Merhaba,
    Oyunumuz her seviyede farklı yılların yaşandığı bir şehirde geçiyor.
@@ -23,3 +23,9 @@ Ancak, oyuncu tüm bunları yaparken trafik araçlarından kaçınması gerekmek
 Eğer her seviyede 50 atık toplarsa, onun adına gerçek bir ormanda bir ağaç dikilecektir. 
 Bu sayede oyuncu, doğaya katkıda bulunmuş olacak ve bir sonraki seviyeye geçmeye hak kazanacaktır. 
 Oyuncu her seviyede farklı bir şehir ortamıyla karşılaşacak ve işler her seferinde daha da zorlaşacaktır.
+
+Kontroller:
+Yön Tuşları: Yukarı, Sol, Aşağı, Sağ = W, A, S, D
+Shift: W, A, S, D ile çalıştırma
+ESC: Oyunu duraklatın ve ayarlara erişin
+M: Haritayı aç
