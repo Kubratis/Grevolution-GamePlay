@@ -8,11 +8,6 @@ The player's goal is to collect waste in certain areas within the given time and
 
 However, the player must avoid traffic vehicles while doing all these. Otherwise, he/she will lose health points. If the player collects 50 wastes in each level, a tree will be planted in a real forest on his/her behalf. In this way, the player will contribute to nature and earn the right to move on to the next level. The player will encounter a different city environment at each level, and things will get more difficult each time.
 
-Controls:                                              
-Arrow Keys: Up, Left, Down, Right = W, A, S, D         
-Shift: Running with W, A, S, D                         
-ESC: Pause the game and access settings              
-M: Open the map               
 
 Herkese Merhaba,
 
@@ -25,8 +20,3 @@ Oyuncunun amacı verilen sürede belirli alanlarda bulunan atıkları toplamak v
 Ancak, oyuncu tüm bunları yaparken trafik araçlarından kaçınması gerekmektedir. Aksi takdirde can kaybedecektir. Eğer her seviyede 50 atık toplarsa, onun adına gerçek bir ormanda bir ağaç dikilecektir. Bu sayede oyuncu, doğaya katkıda bulunmuş olacak ve bir sonraki seviyeye geçmeye hak kazanacaktır. Oyuncu her seviyede farklı bir şehir ortamıyla karşılaşacak ve işler her seferinde daha da zorlaşacaktır.
 
 
-Kontroller:
-Yön Tuşları: Yukarı, Sol, Aşağı, Sağ = W, A, S, D
-Shift: W, A, S, D ile çalıştırma
-ESC: Oyunu duraklatın ve ayarlara erişin
-M: Haritayı aç
