@@ -15,6 +15,7 @@ ESC: Pause the game and access settings
 M: Open the map               
 
 Herkese Merhaba,
+
 "Grevolution," adını "green" (yeşil) ve "revolution" (devrim) kelimelerinin birleşiminden alır ve yeşil bir devrimi temsil eder. Bu isim, oyunun çevresel temalarını ve atık yönetimi üzerine odaklanmasını vurgular. Grevolution ile şehrinizi temizleyin ve gelecek nesillere temiz bir dünya bırakın!
 
 Oyunumuz her seviyede farklı yılların yaşandığı bir şehirde geçmektedir. Bu şehirde, yıllara göre atık tüketimi artmakta veya azalmaktadır.
@@ -22,6 +23,7 @@ Oyunumuz her seviyede farklı yılların yaşandığı bir şehirde geçmektedir
 Oyuncunun amacı verilen sürede belirli alanlarda bulunan atıkları toplamak ve geri dönüşüm alanına götürmektir. Oyuncu şehrin birçok yerinde bulunan bu atıkları mini map ve map yardımıyla daha kolay bulabilecektir. Atıkları toplamak için üzerlerine gitmek yeterlidir.
 
 Ancak, oyuncu tüm bunları yaparken trafik araçlarından kaçınması gerekmektedir. Aksi takdirde can kaybedecektir. Eğer her seviyede 50 atık toplarsa, onun adına gerçek bir ormanda bir ağaç dikilecektir. Bu sayede oyuncu, doğaya katkıda bulunmuş olacak ve bir sonraki seviyeye geçmeye hak kazanacaktır. Oyuncu her seviyede farklı bir şehir ortamıyla karşılaşacak ve işler her seferinde daha da zorlaşacaktır.
+
 
 Kontroller:
 Yön Tuşları: Yukarı, Sol, Aşağı, Sağ = W, A, S, D
